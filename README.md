@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ymajine</h1>
 <h3 align="center">A passionate frontend developer from France !</h3>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ymajine.png" alt="TryHackMe">
+
 - 🔭 I’m currently working on [SAAS 👀](Soon)
 
 - 🌱 I’m currently learning **Next / React Cyber Sécurity**
