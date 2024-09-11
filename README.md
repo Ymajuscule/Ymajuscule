@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ymajine</h1>
 <h3 align="center">A passionate frontend developer from France !</h3>
 
-- 🔭 I’m currently working on [SAAS 👀](Soon)
+- 🔭 I’m currently working on [SAAS 👀]
 
 - 🌱 I’m currently learning **Next / React Cyber Sécurity**
 
